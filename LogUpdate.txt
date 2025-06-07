@@ -2,6 +2,7 @@ Versi 2.3
 -Penambahan Fitur Update
 -Limit text NIK 16 digit pada hasil
 -Notif text NIK pada data awal
+-Update "Salah pada" kini sudah bisa lebih dari 1(sudah otomatis)
 
 Versi 2.2
 -Penambahan pilihan PBSI dan PBSID
