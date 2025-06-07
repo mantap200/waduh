@@ -1,3 +1,6 @@
+Versi 2.3
+-Penambahan Fitur Update
+
 Versi 2.2
 -Penambahan pilihan PBSI dan PBSID
 -cek kode PBSID/PBSI berdasarkan input No ijazah sudah bukan berdasarkan NIM kode digit 2 dan 3 lagi
