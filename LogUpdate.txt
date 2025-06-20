@@ -1,3 +1,8 @@
+Versi 2.4
+-Update Bug Baris Baru sudah di hapus pada SKTL
+-Penomoran sudah terpisah dengan isi
+-Simpan Data pada Verval sudah di perbaiki
+
 Versi 2.3
 -Penambahan Fitur Update
 -Limit text NIK 16 digit pada hasil
