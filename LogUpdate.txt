@@ -1,7 +1,9 @@
 Versi 2.4
 -Update Bug Baris Baru sudah di hapus pada SKTL
--Penomoran sudah terpisah dengan isi
 -Simpan Data pada Verval sudah di perbaiki
+-Backup Data -> Load Data urutan sudah di perbaiki
+-Logo baru
+-pada versi ini akan mendownload Surat PDM,Verval,Database,SKTL
 
 Versi 2.3
 -Penambahan Fitur Update
